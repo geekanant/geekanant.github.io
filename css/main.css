@@ -101,6 +101,9 @@ img{
     padding: 2rem 2rem;
 }
 
+.resume-button{
+  margin-left: 0.3rem;
+}
 
 .social-header .fab {
     color: white;
