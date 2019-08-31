@@ -606,7 +606,8 @@ img{
   #header-home {
     height: 100vh;
     border-bottom: 3px solid #ffbc00;
-    background-position: 20% 30%; 
+    background-position: 18% -5%;
+    /*background-position: 20% 30%; */
   }
 
   .header-content h1 {
